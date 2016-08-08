@@ -145,10 +145,10 @@
     <value>Um dispositivo para capturar Pokémons selvagens. É lançado como uma bola em um Pokémon selvagem, encapsulando confortavelmente o seu alvo.</value>
   </data>
   <data name="D_ItemPotion" xml:space="preserve">
-    <value>Um medicamento em spay para tratar feridas. Ele recupera 20 pontos do HP de um Pokémon.</value>
+    <value>Um medicamento em spay para tratar feridas de seu Pokémon. Ele recupera 20 pontos do HP.</value>
   </data>
   <data name="D_ItemRevive" xml:space="preserve">
-    <value>Um medicamento que pode reviver Pokémons. Ele também pode restaurar metade do HP de Pokémons desmaiados.</value>
+    <value>Um medicamento que pode reviver os Pokémons. Ele também pode restaurar metade do HP dos Pokémons desmaiados.</value>
   </data>
   <data name="D_ItemUltraBall" xml:space="preserve">
     <value>Um dispositivo para capturar Pokémons selvagens. É lançado como uma bola em um Pokémon selvagem, encapsulando confortavelmente o seu alvo.</value>
@@ -223,7 +223,7 @@
     <value>Super Poção</value>
   </data>
   <data name="ItemTroyDisk" xml:space="preserve">
-    <value>Troy Disk</value>
+    <value>Disco de brinquedo</value>
   </data>
   <data name="ItemUltraBall" xml:space="preserve">
     <value>Ultra Ball</value>
@@ -235,12 +235,12 @@
     <value>Wepar Berry</value>
   </data>
   <data name="ItemXAttack" xml:space="preserve">
-    <value>X Attack</value>
+    <value>X Ataque</value>
   </data>
   <data name="ItemXDefense" xml:space="preserve">
-    <value>X Defense</value>
+    <value>X Defesa</value>
   </data>
   <data name="ItemXMiracle" xml:space="preserve">
-    <value>X Miracle</value>
+    <value>X Milagre</value>
   </data>
 </root>
